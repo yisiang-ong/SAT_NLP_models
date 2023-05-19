@@ -1,0 +1,77 @@
+Do you think, perhaps, that you're not taking full responsibility for the way you're feeling, and that's causing you to lash out at others?;strong
+Oh I am very glad to hear that! Feeling happy/content is something we all want to maintain, so may I recommend a therapeutic protocol you may use to enhance and maintain that positive feeling?;strong
+As you may know, Protocol 6 can be used to examine events like these. Have you had any experience with Protocol 6? And, if so, did you find that it brought difficult emotions to the surface that were associated with past events?;strong
+When you've selected the protocol you want to try, please begin the protocol. When you have finished, you may press 'continue' to carry on.;strong
+Have you always listened to the people in your life and considered their point of view on things whenever you have spoken to them?;weak
+Has anything happened recently that has made you feel alienated from your support network of friends and family?;weak
+That is unfortunate. Have you given Protocol 6 a try and did it spark the same difficult emotions you felt toward this event?;weak
+Thank you for sharing your feelings with me. To understand your situation I would now like, with your permission, to ask you some questions.;strong
+I think sometimes anxiety may bring on other strong emotions. Could you tell me whether you have been feeling or have expressed any of these emotions towards someone:;strong
+Do you think you could be trying to control someone else right now?;weak
+Are you remembering something from your distant past or was it something more recent?;weak
+I'm sorry that you are angry, and I wonder if this may be a symptom of something bigger. Have other major difficulties been happening in your life recently?;strong
+I'm sorry that you are angry, and I wonder if this may be a symptom of something bigger. Have other major difficulties been happening in your life recently?;strong
+May I recommend a therapeutic protocol to enhance your positive feelings?;weak
+Oh, that's not good. Was there something that triggered this feeling?;strong
+Was the event that caused these feelings recent, or was it in the distant past?;weak
+I appreciate this may be new but try to go through this protocol now. When you finish, press the 'continue' button.;strong
+I'm sorry to hear that. Do you want to try a different protocol to see if it works better?;strong
+Taking all you have said into consideration, I believe that you are feeling {}, is this the case? Please feel free to correct me if not.;strong
+Was this event a long time ago, or perhaps something that happened more recently to you?;weak
+Thank you so much for letting me know. Would you say this event happened quite recently, or are you remembering something from the more distant past?;strong
+That is not ideal, but please do not give up, it is normal that some protocols can stir up some negative feelings sometimes. Would you like to attempt another protocol at this time?;strong
+Now you have tried this protocol and reached the end, do you feel better or worse about your situation?;weak
+Thanks for doing that. Has it made a difference? Do you feel better now, or worse?;weak
+I think Protocol 11 might help, but I'd like to investigate a bit further before I suggest it. If you have recently tried Protocol 11, could you tell me if it brought back unmanageable emotions due to old events?;strong
+You said that you are having anxious feelings, I wonder if you can also remember if you have felt any other strong emotions towards another person. Do you feel that any of these may apply to how you've felt recently:;strong
+Are you feeling or thinking anything that is giving you the urge to save someone else?;weak
+I hope you don't mind me asking, but are you facing a difficult time?;weak
+May I ask if you feel like a victim right now, and blame your feelings on others?;weak
+I'm so sorry. There may be a better protocol if you'd like to try another one?;weak
+Thank you so much for spening time with me on this session. I really look forward to seeing you soon.;strong
+If I'm understanding correctly, you would identify as being {}, is that a fair assessment?;weak
+Not every protocol works for everyone, and that's okay, I would recommend  not giving up and trying again. Would you like to attempt another one together?;strong
+I really appreciate you speaking with me, it takes courage to talk about one's feelings. I look forward to talking with you again!;strong
+Would you like to try something different that might be a better fit?;weak
+I understand you're not feeling the best at the moment. Do you think the way you're feeling is related any particular incident?;strong
+We've come to the end of the session, I'd like to thank you for taking the time to work through this with me. See you soon.;strong
+Do you find that others are often to blame for things that go wrong around you?;weak
+I'm sorry you feel that way. Was this caused by something specific?;weak
+Let's end here for today, thank you for talking with me and I hope this conversation has been helpful. Looking forward to seeing you again soon.;strong
+Are you in the middle of some trauma of a personal nature, like difficulties with family members or friends?;weak
+Have you attempted to look at things from someone else's perspective, and did it help?;weak
+It seems that you're feeling {} today, is that an accurate enough description of what you're feeling?;weak
+That's unfortunate. Did anything in particular happen to make you feel this way?;weak
+I know this may be difficult, but could you tell me a bit more about your emotions. I'd like to know whether you have felt any of these emotions toward another person:;strong
+Thank you. From what you have told me I understand that you are feeling {}, do you think this more or less describes the way you're feeling?;strong
+May I ask whether it happened recently or long ago?;weak
+Do you feel as though others purposely behave in a way that makes you feel bad?;weak
+Maybe we need to look deeper into your situation. We could work through some other protocol, if you like.;strong
+Thank you so much for letting me know. Would you say that it was a recent or distant event (or events) that caused this emotion?;strong
+Can you let me know if you were recently working on Protocol 11 and it brought back some bad feelings from the past?;weak
+Ok, thats unfortunate, I apologise. There are many different protocols to choose from, so would you like to attempt another protocol?;strong
+Thank you for being open and sharing with me. You seem like you're {} today, would you say that too?;strong
+The exercises in Protocol 6 can be difficult for some, so I would like to know if they would be the right choice for you. Did you attempt the exercises in Protocol 6 and find them difficult or traumatic?;strong
+Fantastic! I have a protocol to suggest which will keep you feeling good, would you like to have a look?;weak
+Have you thought about other people's viewpoints that may have been presented to you in previous conversations, in order to solve or alleviate your problems?;weak
+Thank you for sharing this with me, I understand it can be difficult. Have you tried Protocol 6 recently and found it brought uncontrollable emotions stemming from past events back to life?;strong
+I understand. Was this to do with something that happened recently or a more distant event?;strong
+It's a shame that one didn't work for you, but we will find a protocol that does work. There are other protocols that might work better for you, do you want to try one?;strong
+Im really pleased that you could participate. I hope that we will be in touch very soon, thanks again.;strong
+Would you describe this moment of your life as an intense and complex time where you, your relationships and affections are being strongly challenged?;strong
+Thank you. Are you worried about any personal issues between you and people close to you?;weak
+I understand this event has been distressing to you. Have you revisited this event recently in an attempt to find closure in it, but all it has done is bring back the unbearable emotions you had during the event?;strong
+OK, that makes sense, thanks for telling me. Is this event something that happened a while ago, or recently?;strong
+Thank you for being so patient and cooperative. If you don't mind, I would like you to tell me if you feel you are struggling at the moment.;strong
+In your heart of hearts, is this a personal crisis you're experiencing, or do you feel hurt by your loved ones or friends?;weak
+Would you be able to tell me if there are specific situations that are making you feel this way?;strong
+I really appreciate the time that you have taken and all that you have shared with me. I hope to be in touch again soon.;strong
+I understand, thank you for taking the time to answer that. May I ask whether you feel that you have a tendency to always blame yourself for your problems?;strong
+That's okay, thank you for letting me know. Is there anyone in particular who you are blaming for your sadness?;strong
+In order to help you, could you please indicate if you have felt any of the following emotions towards someone else:;weak
+I would like to know if there is anything happening right now that feels bigger than normal. Are you going through a rough patch, or a personal crisis? if so, you can tell me.;strong
+Would you say that in previous conversations you have always listened to others' points of view, taking time to carefully consider their perspective?;strong
+I really appreciate your effort, thank you for taking part. Let's talk again soon.;strong
+I would love it if you could go through this protocol. When you are done, you can press 'continue'.;weak
+Do you think it's possible that you're just trying to control every move another person makes?;weak
+Do you feel responsible for saving another person, a loved one perhaps?;weak

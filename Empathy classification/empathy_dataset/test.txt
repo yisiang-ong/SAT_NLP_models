@@ -1,0 +1,39 @@
+You must be hurting right now. Could you share whether this event was recent or longer ago?;strong
+Thank you for answering that. Do you blame someone else for the negative emotion that you are feeling right now?;strong
+Here are some protocol suggestions that you could try today. I'd like you to choose the protocol you would like to attempt.;strong
+I can identify with that. Now, are these feelings the result of an event that happened recently or a long time ago?;strong
+Has your current anxiety been caused by something in particular that you are aware of?;weak
+I am here with you. When did this happen, recently or in the more distant past?;strong
+That's so great to hear! I can suggest a protocol that works well for hanging on to positive feelings.;strong
+Ah, that's not good, maybe a different choice would be better. Would you like to do another one?;weak
+I understand that you are feeling anxious. Please could you tell me a little more about this? Is the anxiety due to a specific event or events?;strong
+Would you say you're the kind of person who is comfortable taking other people's views into account during conversations?;weak
+Do you find it easier or natural to place the blame for your problems and feelings on others?;weak
+I understand, thank you. Would you say this event happened quite recently, or are you remembering something from the more distant past?;strong
+Would you say that you were able to really consider other viewpoints when they arose in previous conversations?;weak
+Thank you. From what you have told me I understand that you are feeling {}, do you think this more or less describes the way you're feeling?;strong
+How do you think you are feeling now, having completed the protocol?;weak
+Thank you so much for talking to me. I look forward to speaking again soon.;weak
+Does your situation make you feel as though someone else was at fault?;weak
+Do you think that sometimes you encourage people to behave the way you think they should?;weak
+I'm sorry to hear that. Is there some recent event in particular that you could isolate as the cause for this, or is it an event that happened a while back?;strong
+Welcome back! How are you feeling after having taken the protocol?;strong
+It is great to see you so positive today. May I recommend a protocol that is suitable for your current mood?;strong
+I wonder if you always feel like you caused a problem, even when it is not really your fault?;weak
+I'm going to show you a list of emotions now. Please tell me if you have strongly felt or expressed any of these emotions towards someone:;weak
+Are you experiencing major difficulties or challenges in your relationships with others right now?;weak
+I understand, thank you. Was this event recent or more distant?;weak
+Could your sadness be related to some bigger problem, like an intpersonal crisis between you and your loved ones?;weak
+Is being someone else's savior important to you, and will it do you good?;weak
+How do you feel after having taken this protocol?;weak
+Do you, even without realizing it, try to control the people around you?;weak
+Please try to look deeply into your relationships with others before answering the next question. Are you having any thoughts that you could be controlling someone else or trying to control them?;strong
+Are these feelings being caused by a recent event or have you felt this way before due to a more distant event?;weak
+Are you having a particularly difficult time right now? Do you feel that you need help?;weak
+Do you ever find yourself blaming or controlling others around you?;weak
+Do you always and continuously blame and accuse yourself when something goes wrong, even if deep down you can recognise that it wasn't your own fault?;weak
+Do you feel you do not share any responsibility for this, and others are to blame for having hurt you?;weak
+That's ok, not everyone feels better after the first one. How about we try another one and see how we get on with that one?;strong
+I understand, thank you, then I'd like to dig a little deeper. Do you feel you are a victim in this regrettable situation?;strong
+Do you think there might be something going on somewhere in your mind making you feel that you should be acting as a saviour figure for some other person in your life?;weak
+I'm so sorry you're feeling this way. I know this may be difficult to talk about, but was there a specific event that caused this?;strong
